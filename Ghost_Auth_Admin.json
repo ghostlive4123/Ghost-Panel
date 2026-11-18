@@ -1,1 +1,27 @@
-none
+{
+  "admins": [
+    {
+      "username": "Shanto",
+      "password": "1",
+      "credits": 1000,
+      "role": "superadmin",
+      "credit_history": [],
+      "spent_total": 0,
+      "refunded_total": 0
+    },
+    {
+      "username": "reseller1",
+      "password": "mypass123",
+      "credits": 200,
+      "role": "reseller",
+      "credit_history": [],
+      "spent_total": 0,
+      "refunded_total": 0
+    }
+  ],
+  "settings": {
+    "panel_name": "Ghost Panel",
+    "version": "1.0.0",
+    "credit_per_day": 1
+  }
+}
