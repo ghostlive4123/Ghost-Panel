@@ -3,10 +3,19 @@
     {
       "username": "Shanto",
       "password": "1",
-      "credits": 1000,
+      "credits": 970,
       "role": "superadmin",
-      "credit_history": [],
-      "spent_total": 0,
+      "credit_history": [
+        {
+          "time": "18/11/2026 23:03:33",
+          "action": "CREATE_USER",
+          "username": "Ghost",
+          "days": 30,
+          "delta": -30,
+          "balance": 970
+        }
+      ],
+      "spent_total": 30,
       "refunded_total": 0
     },
     {
