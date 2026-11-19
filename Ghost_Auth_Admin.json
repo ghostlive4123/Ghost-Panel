@@ -3,9 +3,17 @@
     {
       "username": "Shanto",
       "password": "1",
-      "credits": 969,
+      "credits": 50,
       "role": "superadmin",
       "credit_history": [
+        {
+          "time": "19/11/2026 11:17:47",
+          "action": "CREDIT_SET",
+          "username": "Shanto",
+          "days": 0,
+          "delta": -919,
+          "balance": 50
+        },
         {
           "time": "19/11/2026 10:47:53",
           "action": "EXTEND_LICENSE",
