@@ -5,11 +5,7 @@
       "password": "1",
       "credits": 1000,
       "role": "superadmin",
-      "allowed_apps": [
-        "Prime",
-        "Premium",
-        "Bypass"
-      ],
+      "allowed_apps": [],
       "credit_history": [
         {
           "time": "11/19/2026, 5:45:22 PM",
@@ -28,5 +24,6 @@
     "panel_name": "Ghost Panel",
     "version": "1.0.0",
     "credit_per_day": 1
-  }
+  },
+  "apps": []
 }
