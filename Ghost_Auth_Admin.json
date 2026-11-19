@@ -3,9 +3,33 @@
     {
       "username": "Shanto",
       "password": "1",
-      "credits": 10000,
+      "credits": 10090,
       "role": "superadmin",
       "credit_history": [
+        {
+          "time": "19/11/2026 16:12:41",
+          "action": "DELETE_USER",
+          "username": "Ghost",
+          "days": 30,
+          "delta": 30,
+          "balance": 10090
+        },
+        {
+          "time": "19/11/2026 16:12:36",
+          "action": "DELETE_USER",
+          "username": "AMI",
+          "days": 30,
+          "delta": 30,
+          "balance": 10060
+        },
+        {
+          "time": "19/11/2026 16:12:33",
+          "action": "DELETE_USER",
+          "username": "55",
+          "days": 30,
+          "delta": 30,
+          "balance": 10030
+        },
         {
           "time": "19/11/2026 11:18:14",
           "action": "CREDIT_SET",
@@ -64,7 +88,7 @@
         }
       ],
       "spent_total": 80,
-      "refunded_total": 49
+      "refunded_total": 139
     },
     {
       "username": "abir",
