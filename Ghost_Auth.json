@@ -13,35 +13,6 @@
       "last_login": "",
       "last_exit": "",
       "logs": []
-    },
-    {
-      "username": "AMI",
-      "password": "1",
-      "hwid": "",
-      "hwid_locked": false,
-      "license_key": "GHOST-VASR-FO7T-9ABF",
-      "license_expiry": "2026-12-19",
-      "channel": "general",
-      "status": "active",
-      "created_at": "2026-11-19",
-      "last_login": "",
-      "last_exit": "",
-      "logs": []
-    },
-    {
-      "username": "55",
-      "password": "1",
-      "created_by": "h2k",
-      "hwid": "",
-      "hwid_locked": false,
-      "license_key": "GHOST-239J-3DVT-XCZ3",
-      "license_expiry": "2026-12-19",
-      "channel": "general",
-      "status": "active",
-      "created_at": "2026-11-19",
-      "last_login": "",
-      "last_exit": "",
-      "logs": []
     }
   ]
 }
