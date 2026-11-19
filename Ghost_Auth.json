@@ -15,6 +15,24 @@
       "last_login": "",
       "last_exit": "",
       "logs": []
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "app_type": "Premium",
+      "hwid": "",
+      "hwid_locked": false,
+      "license_key": "GHOST-PRE-AAUD-BTHU",
+      "license_expiry": "2026-12-19",
+      "channel": "general",
+      "status": "active",
+      "created_by": "a",
+      "created_at": "2026-11-19",
+      "last_login": "",
+      "last_exit": "",
+      "logs": [
+        "[11/19/2026, 5:12:13 PM] User Created (Premium) by a"
+      ]
     }
   ],
   "admin": {
