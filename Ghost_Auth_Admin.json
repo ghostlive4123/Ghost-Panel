@@ -69,9 +69,17 @@
     {
       "username": "abir",
       "password": "1",
-      "credits": 70,
+      "credits": 100,
       "role": "reseller",
       "credit_history": [
+        {
+          "time": "19/11/2026 11:36:03",
+          "action": "REDUCE_LICENSE",
+          "username": "22",
+          "days": 30,
+          "delta": 30,
+          "balance": 100
+        },
         {
           "time": "19/11/2026 11:35:03",
           "action": "CREATE_USER",
@@ -90,7 +98,7 @@
         }
       ],
       "spent_total": 30,
-      "refunded_total": 0
+      "refunded_total": 30
     },
     {
       "username": "h2k",
