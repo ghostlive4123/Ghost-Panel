@@ -27,6 +27,19 @@
       "credit_history": [],
       "spent_total": 0,
       "refunded_total": 0
+    },
+    {
+      "username": "a",
+      "password": "1",
+      "role": "reseller",
+      "credits": 100,
+      "spent_total": 0,
+      "refunded_total": 0,
+      "allowed_apps": [
+        "Prime",
+        "Premium"
+      ],
+      "credit_history": []
     }
   ],
   "settings": {
