@@ -1,115 +1,26 @@
 {
   "admins": [
     {
-      "username": "Shanto",
-      "password": "1",
-      "credits": 500,
+      "username": "GhostAdmin",
+      "password": "Ghost@2024",
+      "credits": 1000,
       "role": "superadmin",
-      "credit_history": [
-        {
-          "time": "19/11/2026 16:20:08",
-          "action": "CREDIT_SET",
-          "username": "Shanto",
-          "days": 0,
-          "delta": -9590,
-          "balance": 500
-        },
-        {
-          "time": "19/11/2026 16:12:41",
-          "action": "DELETE_USER",
-          "username": "Ghost",
-          "days": 30,
-          "delta": 30,
-          "balance": 10090
-        },
-        {
-          "time": "19/11/2026 16:12:36",
-          "action": "DELETE_USER",
-          "username": "AMI",
-          "days": 30,
-          "delta": 30,
-          "balance": 10060
-        },
-        {
-          "time": "19/11/2026 16:12:33",
-          "action": "DELETE_USER",
-          "username": "55",
-          "days": 30,
-          "delta": 30,
-          "balance": 10030
-        },
-        {
-          "time": "19/11/2026 11:18:14",
-          "action": "CREDIT_SET",
-          "username": "Shanto",
-          "days": 0,
-          "delta": 9950,
-          "balance": 10000
-        },
-        {
-          "time": "19/11/2026 11:17:47",
-          "action": "CREDIT_SET",
-          "username": "Shanto",
-          "days": 0,
-          "delta": -919,
-          "balance": 50
-        },
-        {
-          "time": "19/11/2026 10:47:53",
-          "action": "EXTEND_LICENSE",
-          "username": "Ghost",
-          "days": 30,
-          "delta": -30,
-          "balance": 969
-        },
-        {
-          "time": "19/11/2026 10:47:39",
-          "action": "REDUCE_LICENSE",
-          "username": "Ghost",
-          "days": 29,
-          "delta": 29,
-          "balance": 999
-        },
-        {
-          "time": "18/11/2026 23:06:33",
-          "action": "EXTEND_LICENSE",
-          "username": "Ghost",
-          "days": 20,
-          "delta": -20,
-          "balance": 970
-        },
-        {
-          "time": "18/11/2026 23:06:14",
-          "action": "REDUCE_LICENSE",
-          "username": "Ghost",
-          "days": 20,
-          "delta": 20,
-          "balance": 990
-        },
-        {
-          "time": "18/11/2026 23:03:33",
-          "action": "CREATE_USER",
-          "username": "Ghost",
-          "days": 30,
-          "delta": -30,
-          "balance": 970
-        }
-      ],
-      "spent_total": 80,
-      "refunded_total": 139
+      "allowed_apps": [
+        "Prime",
+        "Premium",
+        "Bypass"
+      ]
     },
     {
       "username": "h2k",
       "password": "1",
+      "credits": 150,
       "role": "reseller",
-      "credits": 100,
-      "spent_total": 0,
-      "refunded_total": 0,
       "allowed_apps": [
         "Prime",
-        "Premium"
-      ],
-      "credit_history": []
+        "Premium",
+        "Bypass"
+      ]
     }
   ],
   "settings": {
