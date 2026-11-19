@@ -3,9 +3,17 @@
     {
       "username": "Shanto",
       "password": "1",
-      "credits": 970,
+      "credits": 999,
       "role": "superadmin",
       "credit_history": [
+        {
+          "time": "19/11/2026 10:47:39",
+          "action": "REDUCE_LICENSE",
+          "username": "Ghost",
+          "days": 29,
+          "delta": 29,
+          "balance": 999
+        },
         {
           "time": "18/11/2026 23:06:33",
           "action": "EXTEND_LICENSE",
@@ -32,7 +40,7 @@
         }
       ],
       "spent_total": 50,
-      "refunded_total": 20
+      "refunded_total": 49
     },
     {
       "username": "reseller1",
