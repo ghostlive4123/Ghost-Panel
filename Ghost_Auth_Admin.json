@@ -13,20 +13,6 @@
       "credit_history": [],
       "spent_total": 0,
       "refunded_total": 0
-    },
-    {
-      "username": "h2k",
-      "password": "1",
-      "credits": 150,
-      "role": "reseller",
-      "allowed_apps": [
-        "Prime",
-        "Premium",
-        "Bypass"
-      ],
-      "credit_history": [],
-      "spent_total": 0,
-      "refunded_total": 0
     }
   ],
   "settings": {
