@@ -49,15 +49,6 @@
       ],
       "spent_total": 80,
       "refunded_total": 49
-    },
-    {
-      "username": "reseller1",
-      "password": "mypass123",
-      "credits": 200,
-      "role": "reseller",
-      "credit_history": [],
-      "spent_total": 0,
-      "refunded_total": 0
     }
   ],
   "settings": {
