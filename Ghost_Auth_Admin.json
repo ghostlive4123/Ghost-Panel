@@ -5,14 +5,20 @@
       "password": "Ghost@2024",
       "credits": 1000,
       "role": "superadmin",
-      "allowed_apps": []
+      "allowed_apps": [],
+      "credit_history": [],
+      "spent_total": 0,
+      "refunded_total": 0
     },
     {
       "username": "reseller1",
       "password": "pass123",
       "credits": 150,
       "role": "reseller",
-      "allowed_apps": []
+      "allowed_apps": [],
+      "credit_history": [],
+      "spent_total": 0,
+      "refunded_total": 0
     }
   ],
   "apps": [],
