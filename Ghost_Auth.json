@@ -16,6 +16,23 @@
       "logs": [
         "[11/19/2026, 11:52:30 PM] User Created (Trlekill) by Shanto"
       ]
+    },
+    {
+      "username": "1",
+      "password": "1",
+      "app_type": "Trlekill",
+      "hwid": "",
+      "hwid_locked": false,
+      "license_key": "GHOST-TRL-GUYQ-CYOU",
+      "license_expiry": "2026-12-19",
+      "status": "active",
+      "created_by": "h2k",
+      "created_at": "2026-11-19",
+      "last_login": "",
+      "last_exit": "",
+      "logs": [
+        "[11/19/2026, 11:54:12 PM] User Created (Trlekill) by h2k"
+      ]
     }
   ],
   "admin": {
