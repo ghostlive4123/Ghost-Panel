@@ -1,8 +1,8 @@
 {
   "admins": [
     {
-      "username": "GhostAdmin",
-      "password": "Ghost@2024",
+      "username": "Shanto",
+      "password": "1",
       "credits": 1000,
       "role": "superadmin",
       "allowed_apps": [],
