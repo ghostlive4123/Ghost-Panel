@@ -69,9 +69,17 @@
     {
       "username": "H2K",
       "password": "1",
-      "credits": 50,
+      "credits": 20,
       "role": "reseller",
       "credit_history": [
+        {
+          "time": "19/11/2026 11:20:28",
+          "action": "CREATE_USER",
+          "username": "AMI",
+          "days": 30,
+          "delta": -30,
+          "balance": 20
+        },
         {
           "time": "19/11/2026 11:18:38",
           "action": "INITIAL_CREDIT",
@@ -81,7 +89,7 @@
           "balance": 50
         }
       ],
-      "spent_total": 0,
+      "spent_total": 30,
       "refunded_total": 0
     }
   ],
