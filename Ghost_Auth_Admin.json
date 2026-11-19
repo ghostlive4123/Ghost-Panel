@@ -69,9 +69,17 @@
     {
       "username": "abir",
       "password": "1",
-      "credits": 100,
+      "credits": 70,
       "role": "reseller",
       "credit_history": [
+        {
+          "time": "19/11/2026 11:35:03",
+          "action": "CREATE_USER",
+          "username": "22",
+          "days": 30,
+          "delta": -30,
+          "balance": 70
+        },
         {
           "time": "19/11/2026 11:33:11",
           "action": "INITIAL_CREDIT",
@@ -81,7 +89,7 @@
           "balance": 100
         }
       ],
-      "spent_total": 0,
+      "spent_total": 30,
       "refunded_total": 0
     },
     {
