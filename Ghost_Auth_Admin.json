@@ -65,6 +65,24 @@
       ],
       "spent_total": 80,
       "refunded_total": 49
+    },
+    {
+      "username": "abir",
+      "password": "1",
+      "credits": 100,
+      "role": "reseller",
+      "credit_history": [
+        {
+          "time": "19/11/2026 11:33:11",
+          "action": "INITIAL_CREDIT",
+          "username": "abir",
+          "days": 0,
+          "delta": 100,
+          "balance": 100
+        }
+      ],
+      "spent_total": 0,
+      "refunded_total": 0
     }
   ],
   "settings": {
