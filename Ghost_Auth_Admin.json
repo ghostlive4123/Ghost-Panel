@@ -97,6 +97,19 @@
       ],
       "spent_total": 80,
       "refunded_total": 139
+    },
+    {
+      "username": "h2k",
+      "password": "1",
+      "role": "reseller",
+      "credits": 100,
+      "spent_total": 0,
+      "refunded_total": 0,
+      "allowed_apps": [
+        "Prime",
+        "Premium"
+      ],
+      "credit_history": []
     }
   ],
   "settings": {
