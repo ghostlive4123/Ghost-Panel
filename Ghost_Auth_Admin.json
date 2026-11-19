@@ -12,6 +12,18 @@
       "credit_history": [],
       "spent_total": 0,
       "refunded_total": 0
+    },
+    {
+      "username": "h2k",
+      "password": "1",
+      "role": "reseller",
+      "credits": 150,
+      "spent_total": 0,
+      "refunded_total": 0,
+      "allowed_apps": [
+        "Trlekill"
+      ],
+      "credit_history": []
     }
   ],
   "apps": [
