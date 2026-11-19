@@ -65,6 +65,24 @@
       ],
       "spent_total": 80,
       "refunded_total": 49
+    },
+    {
+      "username": "H2K",
+      "password": "1",
+      "credits": 50,
+      "role": "reseller",
+      "credit_history": [
+        {
+          "time": "19/11/2026 11:18:38",
+          "action": "INITIAL_CREDIT",
+          "username": "H2K",
+          "days": 0,
+          "delta": 50,
+          "balance": 50
+        }
+      ],
+      "spent_total": 0,
+      "refunded_total": 0
     }
   ],
   "settings": {
