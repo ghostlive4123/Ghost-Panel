@@ -11,18 +11,6 @@
       "credit_history": [],
       "spent_total": 0,
       "refunded_total": 0
-    },
-    {
-      "username": "reseller1",
-      "password": "pass123",
-      "credits": 150,
-      "role": "reseller",
-      "allowed_apps": [
-        "Ghost Premium"
-      ],
-      "credit_history": [],
-      "spent_total": 0,
-      "refunded_total": 0
     }
   ],
   "apps": [],
