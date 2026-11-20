@@ -42,14 +42,15 @@
       "hwid_locked": false,
       "license_key": "GHOST-PRE-I4IJ-O3HQ",
       "license_expiry": "2026-11-25",
-      "status": "active",
+      "status": "inactive",
       "created_by": "fahim",
       "created_at": "2026-11-20",
       "last_login": "",
       "last_exit": "",
       "logs": [
         "[11/20/2026, 10:52:51 AM] User Created (Premium) by fahim",
-        "[11/20/2026, 10:53:04 AM] License reduced by 25d by fahim"
+        "[11/20/2026, 10:53:04 AM] License reduced by 25d by fahim",
+        "[11/20/2026, 10:53:27 AM] Status set to inactive by fahim"
       ]
     }
   ],
