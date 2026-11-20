@@ -1,120 +1,34 @@
 {
   "admins": [
     {
-      "username": "Shanto",
-      "password": "1",
+      "username": "GhostAdmin",
+      "password": "Ghost@2024",
       "credits": 1000,
       "role": "superadmin",
       "allowed_apps": [
-        "Premium",
-        "Trlekill",
-        "h2k"
+        "Ghost Premium"
       ],
-      "credit_history": [
-        {
-          "time": "11/19/2026, 11:52:30 PM",
-          "action": "CREATE_USER",
-          "target_user": "5",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 1000
-        },
-        {
-          "time": "11/20/2026, 4:25:09 PM",
-          "action": "CREATE_USER",
-          "target_user": "Ghost",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 1000
-        },
-        {
-          "time": "11/20/2026, 4:32:28 PM",
-          "action": "CREATE_USER",
-          "target_user": "hi",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 1000
-        },
-        {
-          "time": "11/20/2026, 9:39:59 PM",
-          "action": "CREATE_USER",
-          "target_user": "FA",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 1000
-        },
-        {
-          "time": "11/20/2026, 10:17:47 PM",
-          "action": "CREATE_KEY",
-          "target_user": "Key-Ghost Premium",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 1000
-        }
-      ],
-      "spent_total": 150,
+      "credit_history": [],
+      "spent_total": 0,
       "refunded_total": 0
     },
     {
-      "username": "fahim",
-      "password": "1",
+      "username": "reseller1",
+      "password": "pass123",
+      "credits": 150,
       "role": "reseller",
-      "credits": 195,
-      "spent_total": 30,
-      "refunded_total": 25,
       "allowed_apps": [
-        "Premium"
+        "Ghost Premium"
       ],
-      "credit_history": [
-        {
-          "time": "11/20/2026, 10:52:51 AM",
-          "action": "CREATE_USER",
-          "target_user": "ff",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 170
-        },
-        {
-          "time": "11/20/2026, 10:53:04 AM",
-          "action": "REDUCE_LICENSE",
-          "target_user": "ff",
-          "days": 25,
-          "credits": 25,
-          "balance_after": 195
-        }
-      ]
-    },
-    {
-      "username": "H2K",
-      "password": "1",
-      "role": "reseller",
-      "credits": 50000,
+      "credit_history": [],
       "spent_total": 0,
-      "refunded_total": 0,
-      "allowed_apps": [
-        "Premium",
-        "Trlekill"
-      ],
-      "credit_history": []
+      "refunded_total": 0
     }
   ],
-  "apps": [
-    {
-      "name": "Premium",
-      "icon": "⚡"
-    },
-    {
-      "name": "Trlekill",
-      "icon": "💀"
-    },
-    {
-      "name": "h2k",
-      "icon": "⚡"
-    }
-  ],
+  "apps": [],
   "settings": {
     "panel_name": "Ghost Panel",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "credit_per_day": 1
   }
 }
