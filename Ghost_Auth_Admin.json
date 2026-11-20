@@ -47,9 +47,9 @@
       "username": "fahim",
       "password": "1",
       "role": "reseller",
-      "credits": 170,
+      "credits": 195,
       "spent_total": 30,
-      "refunded_total": 0,
+      "refunded_total": 25,
       "allowed_apps": [
         "Premium"
       ],
@@ -61,6 +61,14 @@
           "days": 30,
           "credits": 30,
           "balance_after": 170
+        },
+        {
+          "time": "11/20/2026, 10:53:04 AM",
+          "action": "REDUCE_LICENSE",
+          "target_user": "ff",
+          "days": 25,
+          "credits": 25,
+          "balance_after": 195
         }
       ]
     }
