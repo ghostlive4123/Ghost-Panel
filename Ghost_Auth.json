@@ -8,13 +8,14 @@
       "hwid_locked": false,
       "license_key": "GHOST-TRL-FQYL-52ZU",
       "license_expiry": "2026-12-19",
-      "status": "active",
+      "status": "inactive",
       "created_by": "Shanto",
       "created_at": "2026-11-19",
       "last_login": "",
       "last_exit": "",
       "logs": [
-        "[11/19/2026, 11:52:30 PM] User Created (Trlekill) by Shanto"
+        "[11/19/2026, 11:52:30 PM] User Created (Trlekill) by Shanto",
+        "[11/20/2026, 10:54:30 AM] Status set to inactive by Shanto"
       ]
     },
     {
@@ -25,13 +26,14 @@
       "hwid_locked": false,
       "license_key": "GHOST-TRL-GUYQ-CYOU",
       "license_expiry": "2026-12-19",
-      "status": "active",
+      "status": "inactive",
       "created_by": "h2k",
       "created_at": "2026-11-19",
       "last_login": "",
       "last_exit": "",
       "logs": [
-        "[11/19/2026, 11:54:12 PM] User Created (Trlekill) by h2k"
+        "[11/19/2026, 11:54:12 PM] User Created (Trlekill) by h2k",
+        "[11/20/2026, 10:54:29 AM] Status set to inactive by Shanto"
       ]
     },
     {
@@ -52,7 +54,9 @@
         "[11/20/2026, 10:53:04 AM] License reduced by 25d by fahim",
         "[11/20/2026, 10:53:27 AM] Status set to inactive by fahim",
         "[11/20/2026, 10:54:20 AM] Status set to active by Shanto",
-        "[11/20/2026, 10:54:26 AM] Status set to inactive by Shanto"
+        "[11/20/2026, 10:54:26 AM] Status set to inactive by Shanto",
+        "[11/20/2026, 10:54:28 AM] Status set to active by Shanto",
+        "[11/20/2026, 10:54:29 AM] Status set to inactive by Shanto"
       ]
     }
   ],
