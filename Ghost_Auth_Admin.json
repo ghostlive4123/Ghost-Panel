@@ -23,27 +23,6 @@
       "refunded_total": 0
     },
     {
-      "username": "h2k",
-      "password": "1",
-      "role": "reseller",
-      "credits": 120,
-      "spent_total": 30,
-      "refunded_total": 0,
-      "allowed_apps": [
-        "Trlekill"
-      ],
-      "credit_history": [
-        {
-          "time": "11/19/2026, 11:54:12 PM",
-          "action": "CREATE_USER",
-          "target_user": "1",
-          "days": 30,
-          "credits": 30,
-          "balance_after": 120
-        }
-      ]
-    },
-    {
       "username": "fahim",
       "password": "1",
       "role": "reseller",
