@@ -40,9 +40,17 @@
           "days": 30,
           "credits": 30,
           "balance_after": 1000
+        },
+        {
+          "time": "11/21/2026, 1:01:50 AM",
+          "action": "CREATE_USER",
+          "target_user": "55",
+          "days": 30,
+          "credits": 30,
+          "balance_after": 1000
         }
       ],
-      "spent_total": 120,
+      "spent_total": 150,
       "refunded_total": 0
     },
     {
@@ -74,6 +82,7 @@
     "credit_per_day": 1
   },
   "user_creators": {
+    "55": "Shanto",
     "h2": "H2K"
   }
 }
