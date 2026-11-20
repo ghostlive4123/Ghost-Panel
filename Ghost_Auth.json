@@ -1,5 +1,24 @@
 {
-  "users": [],
+  "users": [
+    {
+      "username": "🔑 Key 6ZZRQ6-5...",
+      "password": "—",
+      "app_type": "Ghost Premium",
+      "hwid": "",
+      "hwid_locked": false,
+      "license_key": "6ZZRQ6-5E07FR-V2SSA4",
+      "license_expiry": "2026-12-20",
+      "status": "active",
+      "type": "key",
+      "created_by": "Shanto",
+      "created_at": "2026-11-20",
+      "last_login": "",
+      "last_exit": "",
+      "logs": [
+        "[11/20/2026, 10:17:47 PM] License Key Generated (Ghost Premium) by Shanto - Key: 6ZZRQ6-5E07FR-V2SSA4"
+      ]
+    }
+  ],
   "admin": {
     "username": "GhostAdmin",
     "password": "Ghost@2024"
