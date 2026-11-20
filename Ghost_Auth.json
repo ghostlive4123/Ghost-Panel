@@ -1,32 +1,4 @@
 {
-  "users": [
-    {
-      "username": "🔑 Key 6ZZRQ6-5...",
-      "password": "—",
-      "app_type": "Ghost Premium",
-      "hwid": "",
-      "hwid_locked": false,
-      "license_key": "6ZZRQ6-5E07FR-V2SSA4",
-      "license_expiry": "2026-12-20",
-      "status": "active",
-      "type": "key",
-      "created_by": "Shanto",
-      "created_at": "2026-11-20",
-      "last_login": "",
-      "last_exit": "",
-      "logs": [
-        "[11/20/2026, 10:17:47 PM] License Key Generated (Ghost Premium) by Shanto - Key: 6ZZRQ6-5E07FR-V2SSA4"
-      ]
-    }
-  ],
-  "admin": {
-    "username": "GhostAdmin",
-    "password": "Ghost@2024"
-  },
-  "settings": {
-    "panel_name": "Ghost Panel",
-    "version": "1.0.0"
-  },
   "apps": [
     {
       "name": "Ghost Premium",
@@ -35,7 +7,12 @@
       "secret": "660c6d302344782fcbd8e45e4a7ed29622f7d5fdb12446453e5feab30208f741",
       "version": "1.0",
       "sellerkey": "210171e9da095131fa2464eb25314dbe",
-      "api_url": "https://keyauth.win/api/seller/"
+      "sub": "Ghost Premium",
+      "api_url": "https://licenseauth.help/api/seller/"
     }
-  ]
+  ],
+  "settings": {
+    "panel_name": "Ghost Panel",
+    "version": "2.0.0"
+  }
 }
