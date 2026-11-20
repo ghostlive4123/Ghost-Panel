@@ -26,9 +26,17 @@
           "days": 30,
           "credits": 30,
           "balance_after": 1000
+        },
+        {
+          "time": "11/20/2026, 4:32:28 PM",
+          "action": "CREATE_USER",
+          "target_user": "hi",
+          "days": 30,
+          "credits": 30,
+          "balance_after": 1000
         }
       ],
-      "spent_total": 60,
+      "spent_total": 90,
       "refunded_total": 0
     },
     {
