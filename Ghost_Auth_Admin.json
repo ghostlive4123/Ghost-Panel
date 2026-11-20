@@ -42,6 +42,18 @@
           "balance_after": 120
         }
       ]
+    },
+    {
+      "username": "fahim",
+      "password": "1",
+      "role": "reseller",
+      "credits": 200,
+      "spent_total": 0,
+      "refunded_total": 0,
+      "allowed_apps": [
+        "Premium"
+      ],
+      "credit_history": []
     }
   ],
   "apps": [
