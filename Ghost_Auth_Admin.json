@@ -7,7 +7,8 @@
       "role": "superadmin",
       "allowed_apps": [
         "Premium",
-        "Trlekill"
+        "Trlekill",
+        "h2k"
       ],
       "credit_history": [
         {
@@ -81,6 +82,10 @@
     {
       "name": "Trlekill",
       "icon": "💀"
+    },
+    {
+      "name": "h2k",
+      "icon": "⚡"
     }
   ],
   "settings": {
