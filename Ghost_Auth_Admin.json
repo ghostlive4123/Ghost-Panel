@@ -42,9 +42,17 @@
           "days": 30,
           "credits": 30,
           "balance_after": 1000
+        },
+        {
+          "time": "11/20/2026, 10:17:47 PM",
+          "action": "CREATE_KEY",
+          "target_user": "Key-Ghost Premium",
+          "days": 30,
+          "credits": 30,
+          "balance_after": 1000
         }
       ],
-      "spent_total": 120,
+      "spent_total": 150,
       "refunded_total": 0
     },
     {
