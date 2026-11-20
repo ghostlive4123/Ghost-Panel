@@ -50,6 +50,19 @@
           "balance_after": 195
         }
       ]
+    },
+    {
+      "username": "H2K",
+      "password": "1",
+      "role": "reseller",
+      "credits": 50000,
+      "spent_total": 0,
+      "refunded_total": 0,
+      "allowed_apps": [
+        "Premium",
+        "Trlekill"
+      ],
+      "credit_history": []
     }
   ],
   "apps": [
